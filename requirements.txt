@@ -1,1 +1,6 @@
-...
+aiogram==2.25.1
+pyrogram==2.0.106
+requests
+aiohttp
+bs4
+Flask
